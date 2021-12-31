@@ -1,6 +1,6 @@
 # sns-color-palette
 
-I've created a visualization of all colour palettes offered in `seaborn` using [TTC Streetcar Delay Data](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/). Below are a few of my favourites, but to see all of them, please look at the "sns-color-palette.ipynb" file.
+I've created a visualization of all colour palettes offered in `seaborn` using [TTC Streetcar Delay Data](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/). Below are a few of my favourites, but you can access them all in the "sns-color-palette.ipynb" file.
 
 # blues
 
@@ -36,3 +36,9 @@ I've created a visualization of all colour palettes offered in `seaborn` using [
 <br><br/>
 <img align="center" src="pics/summer2.png" style="width:800px;"/>
 <br><br/>
+
+# data
+Contains data used to create the visualizations from the [Toronto Open Data](https://open.toronto.ca/).
+
+# pics
+Contains pictures used to create the README.md file.
