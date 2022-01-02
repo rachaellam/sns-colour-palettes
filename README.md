@@ -37,6 +37,13 @@ I've created a visualization of all colour palettes offered in `seaborn` using [
 <img align="center" src="pics/summer2.png" style="width:800px;"/>
 <br><br/>
 
+# vlag
+
+<img align="center" src="pics/vlag.png" style="width:800px;"/>
+<br><br/>
+<img align="center" src="pics/vlag2.png" style="width:800px;"/>
+<br><br/>
+
 # data
 Contains data used to create the visualizations from the [Toronto Open Data](https://open.toronto.ca/).
 
